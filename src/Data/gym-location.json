@@ -1,0 +1,155 @@
+{
+    "type": "GymInLondon",
+    "GymDetail": [
+        {
+            "Location": "London",
+            "Properties": {
+                "id": 0,
+                "branch": "GBG",
+                "area": "East Sheen",
+                "topComment": "Very good place for keeping up with your fitness",
+                "author": "Michal Skold"
+            },
+            "Geometry":{
+                "type": "Point",
+                "coordinates": [51.46565356601385, -0.26248881594122986],
+                "address": "172-176 Upper Richmond Road West SW14 8AW"
+            }
+        },
+        {
+            "Location": "London",
+            "Properties": {
+                "id": 1,
+                "branch": "GBG",
+                "area": "Twickenham",
+                "topComment": "I really enjoy going to this gym, the equipment is nice and the facilities are great! A massive thank you to Kay, my personal trainer, he is the best person around. Very bubbly, friendly, funny and professional! I do enjoy our sessions together. He is very knowledgeable and can motivate anyone! I recommend him 100%!",
+                "author": "Diana Michalcea"
+            },
+            "Geometry":{
+                "type": "Point",
+                "coordinates": [51.445335847202884, -0.3301452373145982],
+                "address": "1 Heath Road, Strawberry Hill TW1 4AW"
+            }
+        },
+        {
+            "Location": "London",
+            "Properties": {
+                "id": 2,
+                "branch": "GBG",
+                "area": "Park Royal",
+                "topComment": "Enjoyed my first visit but it is incredibly small. It was not busy AT ALL bc of the England game, but even then, we had to wait to be able to use equipment. Not enough sadly, gym is too small.",
+                "author": "Ryan Entwistle"
+            },
+            "Geometry":{
+                "type": "Point",
+                "coordinates": [51.52494551322874, -0.28096870840983723],
+                "address": "Park Royal Leisure Park, Western Ave W3 0PA"
+            }
+        },
+        {
+            "Location": "London",
+            "Properties": {
+                "id": 3,
+                "branch": "GBG",
+                "area": "Acton",
+                "topComment": "Nice place, good staff, lovely manager, perfect place to training.",
+                "author": "Francisco Roig Morcilo"
+            },
+            "Geometry":{
+                "type": "Point",
+                "coordinates": [51.50818179819588, -0.276814010568489],
+                "address": "283 High Street, Acton W3 9QU"
+            }
+        },
+        {
+            "Location": "London",
+            "Properties": {
+                "id": 4,
+                "branch": "GBG",
+                "area": "Hammersmith Palais",
+                "topComment": "Decent gym .. very clean and good equipment",
+                "author": "David Johnston"
+            },
+            "Geometry":{
+                "type": "Point",
+                "coordinates": [51.494048831632156, -0.22408577612709696],
+                "address": "242 Shepherds Bush Road W6 7NL"
+            }
+        },
+        {
+            "Location": "London",
+            "Properties": {
+                "id": 5,
+                "branch": "GBG",
+                "area": "Putney",
+                "topComment": "Great trainers who are friendly and with a how can I help attitude. No doubt that the gym manager has been working hard to get the gym in such an efficient condition as there are rarely any issues or machines not working.",
+                "author": "Laura London"
+            },
+            "Geometry":{
+                "type": "Point",
+                "coordinates": [51.46027029467812, -0.21396567020334473],
+                "address": "154-160 Upper Richmond Road SW15 2SW"
+            }
+        },
+        {
+            "Location": "London",
+            "Properties": {
+                "id": 6,
+                "branch": "GBG",
+                "area": "Fulham",
+                "topComment": "Well equipped, plenty of options, not too busy but busy enough to motivate, and most importantly- very clean!",
+                "author": "Noam Sarfati"
+            },
+            "Geometry":{
+                "type": "Point",
+                "coordinates": [51.480667327114624, -0.19738697342165074],
+                "address": "25 Jerdan Place, Fulham Place, Fulham Island SW6 1BE"
+            }
+        },
+        {
+            "Location": "London",
+            "Properties": {
+                "id": 7,
+                "branch": "GBG",
+                "area": "Wandsworth",
+                "topComment": "Nice environment when not full, I go at 1 pm",
+                "author": "Felix Pereira"
+            },
+            "Geometry":{
+                "type": "Point",
+                "coordinates": [51.456831848823036, -0.19210298526778877],
+                "address": "52 Wandsworth High Street, Wandsworth SW18 4LD"
+            }
+        },
+        {
+            "Location": "London",
+            "Properties": {
+                "id": 8,
+                "branch": "GBG",
+                "area": "Bayswater",
+                "topComment": "5 stars for their service from staff; Lum, Austin, Victoria, Martin and Andy. Keep up the good work!",
+                "author": "Kaphil Lakhani"
+            },
+            "Geometry":{
+                "type": "Point",
+                "coordinates": [51.51300636190624, -0.1902906371034869],
+                "address": "Bayswater House, 6 Moscow Place W2 4AP"
+            }
+        },
+        {
+            "Location": "London",
+            "Properties": {
+                "id": 9,
+                "branch": "GBG",
+                "area": "South Kensington",
+                "topComment": "Really good space to train. Clean, and the stations are well set out. The staff are super friendly.",
+                "author": "Kaye De Lacey"
+            },
+            "Geometry":{
+                "type": "Point",
+                "coordinates": [51.493733480748574, -0.17050963231793612],
+                "address": "The South Kensington Estate, 63-81 Pelham Street SW7 2NJ"
+            }
+        }
+    ]
+}

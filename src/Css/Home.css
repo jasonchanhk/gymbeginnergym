@@ -1,0 +1,32 @@
+.carouselitem{
+    background-size: cover;
+    object-position: center;
+    height: 90vh;
+}
+
+
+@media only screen and (max-width: 960px) {
+    .carouselitem{
+        height: 70vh;
+    }
+}
+
+@media only screen and (max-width: 720px) {
+    .carouselitem{
+        height: 50vh;
+    }
+}
+
+.orangebg{
+    background-color: #FE6A16;
+    color: white;
+}
+
+.orangebg:hover{
+    background-color: #E83C00;
+    color: white;
+}
+.orangebg:focus{
+    background-color: #E83C00;
+    color: white;
+}
