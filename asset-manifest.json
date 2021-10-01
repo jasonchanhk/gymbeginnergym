@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/jasonchanhk/gymbeginnergym/static/css/main.556339f6.chunk.css",
+    "main.js": "/jasonchanhk/gymbeginnergym/static/js/main.77781308.chunk.js",
+    "main.js.map": "/jasonchanhk/gymbeginnergym/static/js/main.77781308.chunk.js.map",
+    "runtime-main.js": "/jasonchanhk/gymbeginnergym/static/js/runtime-main.785d4525.js",
+    "runtime-main.js.map": "/jasonchanhk/gymbeginnergym/static/js/runtime-main.785d4525.js.map",
+    "static/css/2.f2512455.chunk.css": "/jasonchanhk/gymbeginnergym/static/css/2.f2512455.chunk.css",
+    "static/js/2.e39e1614.chunk.js": "/jasonchanhk/gymbeginnergym/static/js/2.e39e1614.chunk.js",
+    "static/js/2.e39e1614.chunk.js.map": "/jasonchanhk/gymbeginnergym/static/js/2.e39e1614.chunk.js.map",
+    "static/js/3.5e87f0a1.chunk.js": "/jasonchanhk/gymbeginnergym/static/js/3.5e87f0a1.chunk.js",
+    "static/js/3.5e87f0a1.chunk.js.map": "/jasonchanhk/gymbeginnergym/static/js/3.5e87f0a1.chunk.js.map",
+    "index.html": "/jasonchanhk/gymbeginnergym/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/jasonchanhk/gymbeginnergym/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.556339f6.chunk.css.map": "/jasonchanhk/gymbeginnergym/static/css/main.556339f6.chunk.css.map",
+    "static/js/2.e39e1614.chunk.js.LICENSE.txt": "/jasonchanhk/gymbeginnergym/static/js/2.e39e1614.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.785d4525.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.e39e1614.chunk.js",
+    "static/css/main.556339f6.chunk.css",
+    "static/js/main.77781308.chunk.js"
+  ]
+}
