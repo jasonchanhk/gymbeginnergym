@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gymbeginnergym/static/css/main.556339f6.chunk.css",
-    "main.js": "/gymbeginnergym/static/js/main.77781308.chunk.js",
-    "main.js.map": "/gymbeginnergym/static/js/main.77781308.chunk.js.map",
+    "main.js": "/gymbeginnergym/static/js/main.f4d968aa.chunk.js",
+    "main.js.map": "/gymbeginnergym/static/js/main.f4d968aa.chunk.js.map",
     "runtime-main.js": "/gymbeginnergym/static/js/runtime-main.b30382bb.js",
     "runtime-main.js.map": "/gymbeginnergym/static/js/runtime-main.b30382bb.js.map",
     "static/css/2.f2512455.chunk.css": "/gymbeginnergym/static/css/2.f2512455.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.f2512455.chunk.css",
     "static/js/2.e39e1614.chunk.js",
     "static/css/main.556339f6.chunk.css",
-    "static/js/main.77781308.chunk.js"
+    "static/js/main.f4d968aa.chunk.js"
   ]
 }
