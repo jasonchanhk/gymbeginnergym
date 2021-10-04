@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/gymbeginnergym/static/css/main.8a01ab28.chunk.css",
-    "main.js": "/gymbeginnergym/static/js/main.a059eee1.chunk.js",
-    "main.js.map": "/gymbeginnergym/static/js/main.a059eee1.chunk.js.map",
-    "runtime-main.js": "/gymbeginnergym/static/js/runtime-main.b30382bb.js",
-    "runtime-main.js.map": "/gymbeginnergym/static/js/runtime-main.b30382bb.js.map",
+    "main.css": "/gymbeginnergym/static/css/main.9aa9c9a4.chunk.css",
+    "main.js": "/gymbeginnergym/static/js/main.999c17ff.chunk.js",
+    "main.js.map": "/gymbeginnergym/static/js/main.999c17ff.chunk.js.map",
+    "runtime-main.js": "/gymbeginnergym/static/js/runtime-main.e47b2d9b.js",
+    "runtime-main.js.map": "/gymbeginnergym/static/js/runtime-main.e47b2d9b.js.map",
     "static/css/2.f2512455.chunk.css": "/gymbeginnergym/static/css/2.f2512455.chunk.css",
-    "static/js/2.6f059572.chunk.js": "/gymbeginnergym/static/js/2.6f059572.chunk.js",
-    "static/js/2.6f059572.chunk.js.map": "/gymbeginnergym/static/js/2.6f059572.chunk.js.map",
-    "static/js/3.5e87f0a1.chunk.js": "/gymbeginnergym/static/js/3.5e87f0a1.chunk.js",
-    "static/js/3.5e87f0a1.chunk.js.map": "/gymbeginnergym/static/js/3.5e87f0a1.chunk.js.map",
+    "static/js/2.9ff24469.chunk.js": "/gymbeginnergym/static/js/2.9ff24469.chunk.js",
+    "static/js/2.9ff24469.chunk.js.map": "/gymbeginnergym/static/js/2.9ff24469.chunk.js.map",
+    "static/js/3.f48b8801.chunk.js": "/gymbeginnergym/static/js/3.f48b8801.chunk.js",
+    "static/js/3.f48b8801.chunk.js.map": "/gymbeginnergym/static/js/3.f48b8801.chunk.js.map",
     "index.html": "/gymbeginnergym/index.html",
     "static/css/2.f2512455.chunk.css.map": "/gymbeginnergym/static/css/2.f2512455.chunk.css.map",
-    "static/css/main.8a01ab28.chunk.css.map": "/gymbeginnergym/static/css/main.8a01ab28.chunk.css.map",
-    "static/js/2.6f059572.chunk.js.LICENSE.txt": "/gymbeginnergym/static/js/2.6f059572.chunk.js.LICENSE.txt"
+    "static/css/main.9aa9c9a4.chunk.css.map": "/gymbeginnergym/static/css/main.9aa9c9a4.chunk.css.map",
+    "static/js/2.9ff24469.chunk.js.LICENSE.txt": "/gymbeginnergym/static/js/2.9ff24469.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b30382bb.js",
+    "static/js/runtime-main.e47b2d9b.js",
     "static/css/2.f2512455.chunk.css",
-    "static/js/2.6f059572.chunk.js",
-    "static/css/main.8a01ab28.chunk.css",
-    "static/js/main.a059eee1.chunk.js"
+    "static/js/2.9ff24469.chunk.js",
+    "static/css/main.9aa9c9a4.chunk.css",
+    "static/js/main.999c17ff.chunk.js"
   ]
 }
