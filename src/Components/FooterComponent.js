@@ -9,9 +9,9 @@ function Footer() {
             <p class="m-0 text-center">
               Jason Chan 2021                           
             </p>
-            <div class="text-center">
+            <p class="text-center">
               Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
-            </div>
+            </p>
             
           </div>
         </footer>

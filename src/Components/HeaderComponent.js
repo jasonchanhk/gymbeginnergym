@@ -1,6 +1,7 @@
 import React , { Component } from "react";
-import {Navbar, Container, Nav } from "react-bootstrap";
-import { Link } from "react-router-dom"
+import { Navbar, Container, Nav } from "react-bootstrap";
+import { Link } from "react-router-dom";
+import "../Css/Header.css"
 
 class Header extends Component {
     constructor(props) {
@@ -9,22 +10,22 @@ class Header extends Component {
     render(){
         return(
             <div>
-                <Navbar expand="lg" bg="light">
+                <Navbar expand="lg" fixed="top" bg="white" class='shadow '>
                     <Container>
-                        <Navbar.Brand as={Link} to="/home" className="coloredText">
+                        <Navbar.Brand as={Link} to="/home">
                             <img
-                            src="/barbell.svg"
+                            src={process.env.PUBLIC_URL + "/barbell.svg"}
                             width="30"
                             height="30"
-                            className="d-inline-block align-top me-2"
+                            className="d-inline-block align-top me-2 logo"
                             alt="Gym Beginner Guide Logo"
                             />
-                            Gym Beginner Gym
+                            <span  className="coloredText align-top">Gym Beginner Gym</span>
                         </Navbar.Brand>
                         <Navbar.Toggle aria-controls="basic-navbar-nav" />
 
-                        <Navbar.Collapse id="basic-navbar-nav">
-                            <Nav className="me-auto">
+                        <Navbar.Collapse>
+                            <Nav className="me-auto" style={ {color: "white" }}>
                                 <Nav.Link as={Link} to="/home">Home</Nav.Link>
                                 <Nav.Link as={Link} to="/workout">Workout</Nav.Link> 
                                 <Nav.Link as={Link} to="/nutrition">Nutrition</Nav.Link>                                                              

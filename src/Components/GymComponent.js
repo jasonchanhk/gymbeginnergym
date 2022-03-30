@@ -3,6 +3,7 @@ import { Container, Row, Col, Table } from "react-bootstrap";
 import { GoogleMap, withScriptjs, withGoogleMap, Marker, InfoWindow } from 'react-google-maps';
 import * as gymData from "../Data/gym-location.json"
 import mapStyles from "../Data/mapStyles";
+import "../Css/Gym.css"
 
 const WrappedMap = withScriptjs(withGoogleMap(Map));
 
@@ -39,15 +40,15 @@ function Gym() {
         <div>
             <div>                   
                 <img
-                    className="d-block w-100"
-                    src="/victor-freitas-JbI04nYfaJk-unsplash (1).jpg"
+                    className="d-block w-100 banner"
+                    src={process.env.PUBLIC_URL + "/victor-freitas-JbI04nYfaJk-unsplash (1).jpg"}
                     alt="workout"
                 />
             </div>
             <Container>
                 <Row className="my-5"> 
                     <Col>
-                        <h1 className="display-5">Looking For A Well-equipped and Beginner-friendly GYM?</h1>
+                        <h1 className="display-4">Looking For A Well-equipped and Beginner-friendly GYM?</h1>
                         <p className="lead">
                         When it comes to exercise motivation, environment matters. You can expect the best coaching
                         and the latest equipment from our health club. Share your fitness goals with us and build a stronger body!
@@ -65,7 +66,7 @@ function Gym() {
 
                 <Row className="my-5"> 
                     <Col>
-                        <h1 className="display-5">Detail GYM Information</h1>
+                        <h1 className="display-4">Detail GYM Information</h1>
                         <div>
                             <Table id='gymtable'>
                                 <thead>
@@ -90,7 +91,7 @@ function Map() {
         <div>
             <Container>                
                 <Row>
-                    <div style={{ height: '50vh', width: '100vw' }}>
+                    <div >
                         <GoogleMap 
                             defaultCenter={{lat: 51.494048831632156, lng: -0.22408577612709696}}
                             defaultZoom={12}
@@ -105,7 +106,7 @@ function Map() {
                                         setSelectedGym(gym)
                                     }}
                                     icon={{
-                                        url: '/barbell.svg',
+                                        url: process.env.PUBLIC_URL + "/barbell.svg",
                                         scaledSize: new window.google.maps.Size(25, 25)
                                     }}
                                     />                                    

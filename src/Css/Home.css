@@ -1,20 +1,11 @@
+.carousel{
+    margin-top: 56px;
+}
+
 .carouselitem{
     background-size: cover;
     object-position: center;
-    height: 90vh;
-}
-
-
-@media only screen and (max-width: 960px) {
-    .carouselitem{
-        height: 70vh;
-    }
-}
-
-@media only screen and (max-width: 720px) {
-    .carouselitem{
-        height: 50vh;
-    }
+    max-height: 570px;
 }
 
 .orangebg{
@@ -29,4 +20,16 @@
 .orangebg:focus{
     background-color: #E83C00;
     color: white;
+}
+
+@media screen and (max-width: 768px) {
+    .carouselp{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .understand{
+        margin-top: 48px;
+    }
 }
