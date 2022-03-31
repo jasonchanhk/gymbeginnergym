@@ -4,7 +4,7 @@ import "../Css/Workout.css"
 
 function bodyPart(arr, part){
     return ( arr.filter((oneEx) => {
-        return ( oneEx.bodyPart == part
+        return ( oneEx.bodyPart === part
         )
     }))
 }

@@ -4,9 +4,7 @@ import { Link } from "react-router-dom";
 import "../Css/Header.css"
 
 class Header extends Component {
-    constructor(props) {
-        super(props);
-    }
+
     render(){
         return(
             <div>

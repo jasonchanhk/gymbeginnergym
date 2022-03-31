@@ -35,7 +35,7 @@ function App() {
       });
     }
     getExerciseData()
-  }, [])
+  })
   
   return (
     <HashRouter>
