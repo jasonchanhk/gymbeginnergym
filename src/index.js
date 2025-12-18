@@ -4,6 +4,9 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import LogRocket from 'logrocket';
+
+LogRocket.init('kvxxea/gym-beginner-gym');
 
 ReactDOM.render(
   <React.StrictMode>
